@@ -11,7 +11,7 @@ export default function App() {
  return (
     <NavigationContainer>
       <AuthProvider>
-        <StatusBar backgroundColor='black'/>
+        <StatusBar backgroundColor='#121110'/>
         <Routes/>
       </AuthProvider>
     </NavigationContainer>
